@@ -1,0 +1,7 @@
+{
+  "name": "COUNCIL — Private Executive Operating System",
+  "description": "Private executive intelligence and decision-support platform for leaders managing complex organizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
